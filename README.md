@@ -6,7 +6,7 @@ This repo includes Java programs that I am learning and practicing step by step.
 
 ## 📁 Folders
 
-- **01_Basics** – Basic Java programs (input/output, variables, operators)
+- **Basics01** – Basic Java programs (input/output, variables, operators)
 
 
 ## 📌 What I’m doing
