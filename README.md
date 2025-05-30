@@ -6,7 +6,9 @@ This repo includes Java programs that I am learning and practicing step by step.
 
 ## 📁 Folders
 
-- **Basics01** – Basic Java programs (input/output, variables, operators)
+- **Basics01** – Basic Java programs (input/output, variables, operators).
+-  **conditionalStatment02** – Java programs using if-else for decision making.
+
 
 
 ## 📌 What I’m doing
