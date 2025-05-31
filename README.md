@@ -8,6 +8,7 @@ This repo includes Java programs that I am learning and practicing step by step.
 
 - **Basics01** – Basic Java programs (input/output, variables, operators).
 -  **conditionalStatment02** – Java programs using if-else for decision making.
+-  **Loops03** – Java programs using for, while, and do-while loops to repeat tasks.
 
 
 
