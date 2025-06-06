@@ -10,6 +10,9 @@ This repo includes Java programs that I am learning and practicing step by step.
 -  **conditionalStatment02** – Java programs using if-else for decision making.
 -  **Loops03** – Java programs using for, while, and do-while loops to repeat tasks.
 -  **PatternPartOne04** – Basic pattern printing programs using nested loops (Part 1).
+-  **FunctionsAndMethods05** – Java programs focused on using functions and methods to solve common problems.
+
+-  
 
 
 
