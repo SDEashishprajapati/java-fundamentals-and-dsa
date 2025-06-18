@@ -6,11 +6,11 @@ This repo includes Java programs that I am learning and practicing step by step.
 
 ## 📁 Folders
 
-- **Basics01** – Basic Java programs (input/output, variables, operators).
--  **conditionalStatment02** – Java programs using if-else for decision making.
--  **Loops03** – Java programs using for, while, and do-while loops to repeat tasks.
--  **PatternPartOne04** – Basic pattern printing programs using nested loops (Part 1).
--  **FunctionsAndMethods05** – Java programs focused on using functions and methods to solve common problems.
+- **Topic01JavaBasics** – Basic Java programs (input/output, variables, operators).
+-  **Topic02conditionalStatment** – Java programs using if-else for decision making.
+-  **Topic03Loops** – Java programs using for, while, and do-while loops to repeat tasks.
+-  **Topic04PatternPartOne** – Basic pattern printing programs using nested loops (Part 1).
+-  **Topic05FunctionsAndMethods** – Java programs focused on using functions and methods to solve common problems.
 
 -  
 
