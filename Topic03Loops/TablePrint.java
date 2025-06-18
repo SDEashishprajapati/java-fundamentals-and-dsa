@@ -1,4 +1,4 @@
-package Loops03;
+package Topic03Loops;
 
   import java.util.Scanner;
 

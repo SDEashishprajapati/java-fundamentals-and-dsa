@@ -1,4 +1,4 @@
-package PatternPartOne04;
+package Topic04PatternPartOne;
 
 public class HollowRectangle {
     public static void main(String[] args) {

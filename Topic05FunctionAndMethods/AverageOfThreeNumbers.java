@@ -1,4 +1,4 @@
-package FunctionAndMethods05;
+package Topic05FunctionAndMethods;
 import java.util.Scanner;
 
 public class AverageOfThreeNumbers {
